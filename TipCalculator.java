@@ -3,7 +3,7 @@
  * 10 September 2020
  * Jonathan Mainhart - CMIS 242
  * Basic GUI Tip Calculator which calculates 15%, 20%, and 25% tips. Calls Tip.java
- * to calculate the tip. Buile with the assistance of my daughter Sophia.
+ * to calculate the tip. Built with the assistance of my daughter Sophia.
  */
 package tipCalc;
 
